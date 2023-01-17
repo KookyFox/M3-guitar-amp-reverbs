@@ -23,40 +23,11 @@ The 'For guitar amp use' folder contains IRs profiled with the volume knob on 1 
 
 The 'Extreme' folder contains IRs profiled with the volume cranked to the max, resulting in a bit of saturation of the amp in the 2.5k region. This is recommended for lo-fi effects.
 
-
-## Licence
-
-  - [Creative Commons](https://creativecommons.org/) - CC-BY
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
 
-## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
 
